@@ -1,3 +1,4 @@
+
 Aim:
 
 To implement Stack operations using Linked List in C, including push, pop and display functions, by dynamically creating and managing nodes as per the given algorithm.
@@ -171,10 +172,4 @@ Stack Underflow
 
 
 RESULT:
-this program successfully demonstrates stack using linked list.
-
-
-
-
-
     This program successfully demonstrates the stack using linked list.
